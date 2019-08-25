@@ -8,4 +8,4 @@ run `gulp` in terminal will trigger gulp-sass, gulp-uglify , gulp-minify and lot
 
 ## gulp watch
 
-run `gulp watch` will watch every move or change you made in html/js/sass files. change
+run `gulp watch` will watch every move or change you made in html/js/sass files.
