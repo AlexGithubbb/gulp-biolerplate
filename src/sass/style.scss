@@ -1,0 +1,47 @@
+// $primaryColor: #10547c;
+// $secondaryColor: rgb(67, 116, 116);
+// $backdrop: '../images/desktop.png';
+// body {
+//   background-image: url($backdrop);
+//   background-size: cover;
+//   background-repeat: no-repeat;
+// }
+
+// $txt: white;
+
+// .heading {
+//   color: $txt;
+// }
+
+// @mixin center {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
+
+// ul {
+//   list-style: none;
+//   li {
+//     // text-align: center;
+//     @include center;
+//     margin: 1rem 0;
+//     width: 30%;
+//     height: 2rem;
+//     border: 2px solid burlywood;
+//     color: whitesmoke;
+//     box-shadow: 2px 2px 5px #bbb;
+//   }
+//   .linkBtn {
+//     @include center;
+//     width: 15%;
+//     height: 2rem;
+//     border: 2px solid $secondaryColor;
+//     border-radius: 5px;
+//     background-color: $secondaryColor;
+
+//     a {
+//       text-decoration: none;
+//       color: #082a3d;
+//     }
+//   }
+// }
