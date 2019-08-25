@@ -1,4 +1,4 @@
-# gulp-biolerplate
+# gulp-boilerplate
 
 This is a Gulp boilerplate and you can download this to local to use it with Gulp and Sass, have fun!
 
